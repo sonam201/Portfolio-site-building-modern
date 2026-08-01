@@ -26,6 +26,14 @@ const projects = [{
     link: "https://nepal-groove-testapp.vercel.app/",
     github: "https://github.com/sonam201/frontendnepal",
 },
+{
+    title: "Climate, Seasons & Skin Cancer",
+    description: "A 16-year retrospective research study analyzing how climate and seasonal patterns relate to skin cancer trends in New Zealand. Published in the DPCJ journal, the project involved long-term data analysis, trend identification, and statistical interpretation of public health data.",
+    image: "/projects/skincancerprediction.png",
+    tags: ["Data Analysis", "Research", "Public Health", "Statistics", "Time Series"],
+    link: "https://dpcj.org/index.php/dpc/article/view/7139/3899",
+    github: "#",
+},                
 ];
 
 
