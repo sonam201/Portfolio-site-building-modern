@@ -11,7 +11,6 @@ const projects = [
     image: "/projects/customerhurnprediction.png",
     tags: ["Python", "scikit-learn", "Data Cleaning", "EDA", "Feature Engineering", "Machine Learning "],
     link: "https://drive.google.com/file/d/1W9bi4kq_KESFtpZJphy0kAfZypFYwHcG/view?usp=sharing",
-    github: "#",
   },
   {
     title: "Flood Prediction Using Machine Learning",
@@ -20,7 +19,6 @@ const projects = [
     image: "/projects/Floodprediction.png",
     tags: ["Python", "LSTM", "Deep Learning", "Time Series", "Data Preprocessing", "Model Evaluation"],
     link: "https://drive.google.com/file/d/1m1nLNT_NeolUYc4leJQeXrmFAwGreeeV/view?usp=sharing",
-    github: "#",
   },
   {
     title: "Nepal Groove",
@@ -38,7 +36,6 @@ const projects = [
     image: "/projects/dermaimage.png",
     tags: ["Data Analysis", "Research", "Public Health", "Statistics", "Time Series"],
     link: "https://dpcj.org/index.php/dpc/article/view/7139/3899",
-    github: "#",
   },
 ];
 
