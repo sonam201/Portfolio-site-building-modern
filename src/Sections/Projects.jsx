@@ -37,6 +37,14 @@ const projects = [
     tags: ["Data Analysis", "Research", "Public Health", "Statistics", "Time Series"],
     link: "https://dpcj.org/index.php/dpc/article/view/7139/3899",
   },
+  {
+    title: "AgriReuse – Farm Waste Marketplace",
+    description:
+      "A voice-first marketplace that helps New Zealand farmers turn leftover produce, crop residues and other farm waste into value. Farmers list items by voice or text, each listing gets an automated safety check (eligible, restricted or blocked), and buyers such as composters, processors and other farms are matched with clear reasons. Cost, transport and carbon savings are shown up front before any deal, with an impact dashboard tracking waste reused and emissions saved.",
+    image: "/projects/agrireuse%20.png",
+    tags: ["Next.js", "Voice AI", "Sustainability", "Marketplace", "Vercel"],
+    link: "https://agri-reuse.vercel.app/",
+  },
 ];
 
 export const Projects = () => {
